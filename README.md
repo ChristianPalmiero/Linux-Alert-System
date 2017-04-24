@@ -9,6 +9,6 @@ according to the following table:
 
 | Distance [cm] | <10 | [10-25) | [25-50) | [50-75) | [75-100] | >100  |
 |:-------------:|:---:|:-------:|:-------:|:-------:|:--------:|:-----:|
-| Period [ms]   | ∞   | 400     | 600     |800      | 1.00 0   | 2.000 |
+| Period [ms]   | ∞   | 400     | 600     |800      | 1.000   | 2.000 |
 
 The STM32F746-DISCOVERY prints on its serial console the measured distance.<br />
